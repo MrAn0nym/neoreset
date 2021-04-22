@@ -1,5 +1,6 @@
 {
     "static": {
+        "directory":"default"
         "hotkey": "f7",
         "hotkey2": "f8",
         "version": "1.16",
