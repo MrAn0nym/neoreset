@@ -33,4 +33,4 @@ jobs:
         --hidden-import=pynput.mouse._xorg
     - uses: actions/upload-artifact@v2
       with:
-        path: dist/neoreset
+        path: dist/neoreset*
